@@ -47,5 +47,8 @@
   },
   "devDependencies": {
     "@fab/static": "^0.1.8"
+  },
+  "resolutions": {
+    "serialize-javascript": "^2.1.1"
   }
 }
